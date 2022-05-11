@@ -1,6 +1,6 @@
 void a()
 {
  
- 
+ print('Hello');
 
 }
